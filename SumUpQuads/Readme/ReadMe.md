@@ -1,0 +1,2 @@
+Sum of Squares: Write a program that takes a positive integer input n and calculates
+the sum of the squares of all integers from 1 to n. For example, if n = 3, the program should calculate 1^2 + 2^2 + 3^2 = 14.
